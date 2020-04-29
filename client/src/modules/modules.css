@@ -1,0 +1,23 @@
+form{
+    margin: 10px;
+}
+form .text-field {
+    margin-right: 15px;
+}
+
+form .submit-button {
+    margin-top: 18px;
+}
+
+tr {
+    cursor: pointer;
+}
+
+.table-container {
+    max-height: 60vh
+}
+
+.pagination{
+    flex-shrink: 0;
+    margin-left: 5px;
+}
